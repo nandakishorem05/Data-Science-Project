@@ -1,5 +1,5 @@
 # Data-Science-Project
-Cellphone price prediction
+
 # 📱 Cellphone Price Prediction
 
 ## 📌 Project Overview
