@@ -100,6 +100,6 @@ jupyter notebook cellphone_price_pred.ipynb
 
 **Nandakishore M**
 
-Data Science Student
+Data Science Student .
 GitHub Profile: https://github.com/nandakishorem05
 
